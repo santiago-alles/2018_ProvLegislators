@@ -1,6 +1,6 @@
-# fem_prov_legislators
 Equilibrar el terreno:<br />Instituciones Electorales e Incorporación de Mujeres<br />en las Legislaturas Provinciales en Argentina
 =================================
+Book chapter
 <blockquote><em>Mujeres en la política: Experiencias nacionales y subnacionales en América Latina</em>,<br />edited by F. Freidenberg, M. Caminotti, B. Muñoz-Pogossian, and T. Došek.<br />Ciudad de México: Instituto Electoral de la Ciudad de México - Universidad Nacional Autónoma de México, 2018, pp. 167-192.</blockquote>
 
 Last update:
