@@ -13,6 +13,11 @@ While there is an extended consensus about the effects of quotas, this chapter l
 
 This repository includes data and scripts to replicate model results of the book chapter. Data covers province-level legislative renovations in the 24 constituencies, between 1983 and 2017, for both lower and upper legislative chambers.
 
+Location
+-----------
+Data and supporting materials necessary to reproduce the results are available at the Harvard Dataverse:
+<pre>https://doi.org/10.7910/DVN/ZD7Y12</pre>
+
 Suggested Citation
 ------------------
 
